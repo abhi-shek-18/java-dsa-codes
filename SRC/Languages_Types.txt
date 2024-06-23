@@ -1,0 +1,32 @@
+There are three types of languages:
+1. PROCEDURAL:
+->Specifies a series of well-structured steps and procedures to compose
+a program.
+->contains a systematic order of statements, functions and commands
+to complete a task.
+
+2.FUNCTIONAL:
+->Writing a program only in pure functions i.e. never modify variables,
+but only create new ones as an output.
+->used in situations where we have to perform lost of different
+operations on the same set of data.
+->First class functions.
+
+3.OBJECT ORIENTED :
+->Revolves around objects
+->Code+Data=Object.
+->Developed to make it easier to develop,debug,reuse, and maintain software.
+
+
+# Static vs Dynamic Languages
+1.STATIC:
+->Perform type checking at compile time.
+->Errors will show at compiler time.
+->Declare datatype before you use it.
+->More control
+
+2.DYNAMIC:
+->Perform type checking at runtime.
+->Error might not show till program is run.
+->No need to declare datatype of variables.
+->Saves time in writing code but might give error at runtime.
